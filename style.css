@@ -1,0 +1,41 @@
+.inicio{
+    background-image: url(th.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container-fluid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel {
+    width: 40%; /* Asegura que el carrusel ocupe todo el ancho del contenedor */
+}
+
+
+.empresa{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.box {
+    height: 100%;
+    width: 80%;
+    border-radius: 20px;
+    background-color: #171717;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+    margin: 20px;
+    padding: 20px;
+}
+
+
