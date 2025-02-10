@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arielvalle.com/Mapa%20del%20sitio.xml
